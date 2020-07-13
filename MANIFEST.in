@@ -1,0 +1,2 @@
+include deenmodule/datasets/drosophila/*.txt
+include deenmodule/datasets/sociopatterns/*.txt
